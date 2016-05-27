@@ -3,6 +3,7 @@ layout: post
 title: Markdown Introduction
 ---
 Perhaps a better title would be...
+
 ####Markdown for Dummies (Me)
 
 Markdown is the syntax used by github to make posts.
