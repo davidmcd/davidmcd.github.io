@@ -10,9 +10,10 @@ for dummies mode)
 * I'd like a simple editor where I can just type
   * understands markdown and gives me syntax highlighting
   * lets me easily see what the user will see
-  * side by side viewing so I can see both at once. 
+  * side by side viewing so I can see both at once
 * Lets me create new files and manage my files easily
 * Works directly with git so I can see/connect my posts
+* Spell checker would be valuable to catch pesky type-o's
 
 ## Solution
 

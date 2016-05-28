@@ -5,7 +5,7 @@ title: Markdown Lessons Learned
 > Note that this will be my last post on Markdown.  It's time 
 to move on to something else.  
 
-Ok, so I noticed some odd layout in my previous posts.
+Ok, I noticed some odd layout in my previous posts.
 Some of the text that i entered was not wrapping
 properly on different size devices.  It was as if
 it didn't auto wrap.  As I'm typing this, I'm entering
