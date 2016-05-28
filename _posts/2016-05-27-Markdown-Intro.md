@@ -4,7 +4,7 @@ title: Markdown Introduction
 ---
 Perhaps a better title would be...
 
-####Markdown for Dummies (Me)
+### Markdown for Dummies (Me)
 
 Markdown is the syntax used by github to make posts.
 [Github Markdown Help](https://help.github.com/articles/basic-writing-and-formatting-syntax/) has a nice short 
