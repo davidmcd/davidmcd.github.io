@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Markdown Lessons Learned
+tags:
+- markdown
+published: true
 ---
 > Note that this will be my last post on Markdown.  It's time 
 to move on to something else.  

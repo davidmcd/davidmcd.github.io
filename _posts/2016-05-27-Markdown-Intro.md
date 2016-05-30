@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Markdown Introduction
+tags:
+- markdown
+published: true
 ---
 Perhaps a better title would be...
 

@@ -7,7 +7,7 @@ permalink:           pretty
 # Setup
 title:               David McDonald's Blog
 tagline:             'About tech, cooking, photography and stuff'
-description:         'David is Microsoft Technologist who enjoys geeking out as well as cooking, photography and other geeky pursuits.'
+description:         'David is Microsoft Technologist who enjoys geeking out as well as cooking, photography and other nerdy pursuits.'
 url:                 http://localhost:4000
 baseurl:             ''
 paginate:            5

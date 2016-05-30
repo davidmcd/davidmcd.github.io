@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Markdown Editors
+tags:
+- markdown
+published: true
 ---
 Ok, so now we know more about *markdown* syntax.  The next 
 topic is what tools are there to help me write it.  Here are
