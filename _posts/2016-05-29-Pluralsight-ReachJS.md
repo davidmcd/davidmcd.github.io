@@ -5,10 +5,10 @@ tags:
 - webdev
 - react.js
 - learning
-published: true
+published: false
 ---
 I've been a subscriber to Pluralsight for a few years now.  I love it
-because it lets me quickly get up to speed on almost anything in the
+because it lets me quickly gain basic knowledge of almost anything in the
 rapidly changing development world.  In the last year they have added
 many courses for deisgners and for IT Pros too.  
 
@@ -33,7 +33,8 @@ changes over time**. -Facebook on Github
 1. [Plunker - browser JS editor](https://plnkr.co) Nice tool that
 lets you play around with React.js in the browser.  Can be used for 
 lots of frameworks and experiments.  
-2. 
+2. *Ok, well I didn't get too far today.  I'll hopefully get back to this before the 
+week becomes too crazy and finish the post with toughts about React.JS.*
 
 Regards,  
 --Dave.
