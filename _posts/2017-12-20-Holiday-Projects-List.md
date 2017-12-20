@@ -1,0 +1,27 @@
+---
+published: true
+layout: post
+tags:
+  - javascript
+---
+## Holiday Techie Fun Project List
+
+Since the Summer of 2016 I have been in a new job where I don't get very much time for geeky endeavors.  I'm looking forward to the next 12 days where I'm off of work enjoying the holidays with family and friends.  I'm also going to carve out some time for a few simple geeky projects.  
+
+Here's my list
+- Revive the blog [Jekyll on Windows PC via Bash Shell](https://jekyllrb.com/docs/windows/) (DONE)
+- Setup Kubernetes on Azure with AKS
+- Azure Quantum Computing with Visual Studio
+- Azure IOT Starter Kit - hello world
+- Intelligent Mission - provision the demo and get running in Azure.  
+- Simple BOT Framework App 
+- Smartthings Hub - Home Automation 
+- Link SmartThings Hub to Cortana/Harmon Kardon
+- Dynamics simple webapi lookup code
+- Windows VR Headset - link to Steam to play VR Games
+- Setup and experiment with [Google AIY VoiceKit] (https://aiyprojects.withgoogle.com/voice)
+
+Did I miss anything fun to-do?  Happy Holidays!!
+
+Regards,  
+--Dave.
