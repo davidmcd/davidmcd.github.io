@@ -10,8 +10,8 @@ Since the Summer of 2016 I have been in a new job where I don't get very much ti
 
 Here's my list
 - Revive the blog [Jekyll on Windows PC via Bash Shell](https://jekyllrb.com/docs/windows/) (DONE)
-- Setup Kubernetes on Azure with AKS
-- Azure Quantum Computing with Visual Studio
+- [Setup Kubernetes on Azure with AKS](https://aiyprojects.withgoogle.com/voice)
+- Build Hello World with [Microsoft Quantum Development Kit](https://www.microsoft.com/en-us/quantum/)
 - Azure IOT Starter Kit - hello world
 - Intelligent Mission - provision the demo and get running in Azure.  
 - Simple BOT Framework App 
@@ -19,7 +19,7 @@ Here's my list
 - Link SmartThings Hub to Cortana/Harmon Kardon
 - Dynamics simple webapi lookup code
 - Windows VR Headset - link to Steam to play VR Games
-- Setup and experiment with [Google AIY VoiceKit] (https://aiyprojects.withgoogle.com/voice)
+- Setup and experiment with [Google AIY VoiceKit](https://aiyprojects.withgoogle.com/voice)
 
 Did I miss anything fun to-do?  Happy Holidays!!
 
