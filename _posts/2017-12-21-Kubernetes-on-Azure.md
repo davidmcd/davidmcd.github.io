@@ -2,7 +2,8 @@
 published: true
 layout: post
 tags:
-  - javascript
+  - HolidayProjects
+  - devops
 ---
 ## Kubernetes - #2 on Holiday Techie Fun Project List
 

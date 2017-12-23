@@ -2,7 +2,7 @@
 published: true
 layout: post
 tags:
-  - javascript
+  - HolidayProject
 ---
 ## Holiday Techie Fun Project List
 
@@ -10,8 +10,8 @@ Since the Summer of 2016 I have been in a new job where I don't get very much ti
 
 Here's my list
 - Revive the blog [Jekyll on Windows PC via Bash Shell](https://jekyllrb.com/docs/windows/) (DONE)
-- [Setup Kubernetes on Azure with AKS](https://aiyprojects.withgoogle.com/voice)
-- Build Hello World with [Microsoft Quantum Development Kit](https://www.microsoft.com/en-us/quantum/)
+- [Setup Kubernetes on Azure with AKS](https://aiyprojects.withgoogle.com/voice) (DONE)
+- Build Hello World with [Microsoft Quantum Development Kit](https://www.microsoft.com/en-us/quantum/) (DONE)
 - Azure IOT Starter Kit - hello world
 - Intelligent Mission - provision the demo and get running in Azure.  
 - Simple BOT Framework App 
