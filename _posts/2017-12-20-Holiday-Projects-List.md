@@ -12,10 +12,10 @@ Here's my list
 - Revive the blog [Jekyll on Windows PC via Bash Shell](https://jekyllrb.com/docs/windows/) (DONE)
 - [Setup Kubernetes on Azure with AKS](https://aiyprojects.withgoogle.com/voice) (DONE)
 - Build Hello World with [Microsoft Quantum Development Kit](https://www.microsoft.com/en-us/quantum/) (DONE)
-- Azure IOT Starter Kit - hello world
+- Smartthings Hub - Home Automation (Done)
+- Azure IOT Starter Kit - hello world (Done)
 - Intelligent Mission - provision the demo and get running in Azure.  
 - Simple BOT Framework App 
-- Smartthings Hub - Home Automation 
 - Link SmartThings Hub to Cortana/Harmon Kardon
 - Dynamics simple webapi lookup code
 - Windows VR Headset - link to Steam to play VR Games
