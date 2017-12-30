@@ -15,11 +15,12 @@ Here's my list
 - Smartthings Hub - Home Automation (DONE)
 - Azure IOT Starter Kit - hello world (DONE)
 - Link SmartThings Hub to Cortana/Harmon Kardon (DONE)
+- Setup and experiment with [Google AIY VoiceKit](https://aiyprojects.withgoogle.com/voice)(DONE)
 - Intelligent Mission - provision the demo and get running in Azure.  
 - Simple BOT Framework App 
 - Dynamics simple webapi lookup code
 - Windows VR Headset - link to Steam to play VR Games
-- Setup and experiment with [Google AIY VoiceKit](https://aiyprojects.withgoogle.com/voice)
+
 
 Did I miss anything fun to-do?  Happy Holidays!!
 
